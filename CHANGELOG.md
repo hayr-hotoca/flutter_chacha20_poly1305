@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * add dartdoc comments
+
+## 0.0.3
+
+* format dart code

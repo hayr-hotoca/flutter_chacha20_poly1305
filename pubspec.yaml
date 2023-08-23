@@ -1,6 +1,6 @@
 name: flutter_chacha20_poly1305
 description: ChaCha20-Poly1305 encryption/decryption for Flutter. Native implementations make sure it has the fastest performance.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/hayr-hotoca/flutter_chacha20_poly1305
 
 environment:
