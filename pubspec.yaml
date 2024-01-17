@@ -1,6 +1,6 @@
 name: flutter_chacha20_poly1305
-description: ChaCha20-Poly1305 encryption/decryption for Flutter. Native implementations make sure it has the fastest performance.
-version: 0.0.3
+description: ChaCha20-Poly1305 encryption/decryption for Flutter. Encrypt binary and text-like data with ease. Native implementations make sure it has the fastest performance.
+version: 0.0.4
 homepage: https://github.com/hayr-hotoca/flutter_chacha20_poly1305
 
 environment:
@@ -38,6 +38,13 @@ flutter:
         pluginClass: FlutterChacha20Poly1305Plugin
       ios:
         pluginClass: FlutterChacha20Poly1305Plugin
+
+topics:
+  - chacha
+  - chacha20
+  - poly1305
+  - poly
+  - rfc7539
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * format dart code
+
+## 0.0.4
+
+* add info to README.md, pubspec.yaml

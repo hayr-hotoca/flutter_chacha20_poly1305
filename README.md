@@ -1,6 +1,7 @@
 # flutter_chacha20_poly1305
 
-ChaCha20-Poly1305 encryption/decryption for Flutter.
+ChaCha20-Poly1305 encryption/decryption for Flutter.\
+Encrypt binary and text-like data with ease.\
 Native implementations make sure it has the fastest performance.
 
 ## Requirements
