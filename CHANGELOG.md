@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * add info to README.md, pubspec.yaml
+
+## 0.0.5
+
+* change github link
